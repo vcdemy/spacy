@@ -8,7 +8,7 @@
 
 ## 課程內容：
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_spacy_intro/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/spacy/)
 
 簡單介紹 spaCy 的使用，主要是 linguistic features 的部份，不含 v3 新功能的使用。
 
